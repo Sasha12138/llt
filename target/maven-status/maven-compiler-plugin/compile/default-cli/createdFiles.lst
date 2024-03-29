@@ -1,0 +1,15 @@
+com\example\llt\service\CheckLoginService.class
+com\example\llt\dao\LeaveDao.class
+com\example\llt\controller\TestController.class
+com\example\llt\entity\Employee.class
+com\example\llt\dao\EmployeeDao.class
+com\example\llt\controller\LoginController.class
+com\example\llt\utils\SnowflakeIdUtils.class
+com\example\llt\entity\Leave.class
+com\example\llt\LltApplication.class
+com\example\llt\dao\ClockInDao.class
+com\example\llt\entity\ClockIn.class
+com\example\llt\entity\Product.class
+com\example\llt\entity\Result.class
+com\example\llt\utils\SqlSessionUtils.class
+com\example\llt\dao\ProductDao.class
